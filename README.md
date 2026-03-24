@@ -11,3 +11,7 @@ How it works:
 6. Create a placeholder (optional, read below)
 
 *It is recommended to upload your mapset from a placeholder. The name and background you give it will show on the map's page and its background will be next to the title of each song in the mapset. You can't play it or map it without an audio file, but you can go to Song Setup and set the title, creator (you need to make that your name in order to upload), difficulty name, etc. as usual. You can also still drag and drop a background.
+
+To do:
+1. Combine maps into one map (fuse the audio files, extend the map)
+2. Calculate and warn automatically if the mapset exceeds its size limit.
