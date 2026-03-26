@@ -11,5 +11,6 @@ How it works:
 6. Create a placeholder (optional, read below)
 
 *It is recommended to upload your mapset from a placeholder. The name and background you give it will show on the map's page and its background will be next to the title of each song in the mapset. You can't play it or map it without an audio file, but you can go to Song Setup and set the title, creator (you need to make that your name in order to upload), difficulty name, etc. as usual. You can also still drag and drop a background.
+*Be careful with your mapset size! Make sure the song folder is less than 100 MB before importing it into osu, or else you won't be able to upload. Furthermore, songs longer than 10 minutes (placeholder length) might get cut down to 10 minutes if your files are too large. This is a bug in osu! and the best I can do is warn you about it.
 
 Go to https://github.com/NeroYuki/osu-map-compilation-script for turning maps into one marathon map (by NeroYuki)
